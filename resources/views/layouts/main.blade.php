@@ -28,7 +28,7 @@
       <body>
         <main class="main" id="top">
             <!-- navbar -->
-            @include('dashboard-layout.navbar')
+            @include('layouts.navbar')
             <!-- End Navbar -->
 
             <!-- Header -->
