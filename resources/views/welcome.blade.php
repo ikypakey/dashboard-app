@@ -24,7 +24,7 @@
                     </div>
                     <div class="col-lg-3">
                         <!-- <a href=""> -->
-                    <button class="btn-card" style="background-color: #EEEDED; color: #071952;">
+                    <button class="btn-card" ">
                             <img src="{{ asset('dashboard-assets/assets/img/icons/master.png') }}" alt=""  style="height:75px; width: 75px;" />
                             Master Part List
                     </button>
@@ -85,7 +85,7 @@
                          <!-- <a href=""> -->
 
 
-                        <button class="btn-card" style="background-color: #EEEDED; color: #071952; margin: top 20px;">
+                        <button class="btn-card" >
                             <img src="{{ asset('dashboard-assets/assets/img/icons/control.png') }}" alt=""style='height:70px; width:60px;padding-top: 10px;' />
                             4M Transisi, Kontrol License dan Absensi
                         </button>
