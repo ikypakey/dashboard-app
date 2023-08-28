@@ -13,7 +13,7 @@
                         </a>
                     </div>
                     <div class="col-lg-3">
-                        <a href="/dashboard-app" target="_blank" style="text-decoration: none">
+                        <a href="/shortage-app" target="_blank" style="text-decoration: none">
                             <button class="btn-card">
                                 <img src="{{ asset('dashboard-assets/assets/img/icons/report.png') }}" alt=""
                                     style="height:95px; width: 95px;" />
