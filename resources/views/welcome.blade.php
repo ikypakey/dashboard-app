@@ -92,9 +92,9 @@
 
 
                         <button class="btn-card">
-                            <img src="{{ asset('dashboard-assets/assets/img/icons/whs-icon.png') }}"
-                                alt=""style='height:80px; width:70px;padding-top: 10px;' />
-                            Schedule Incoming Warehouse
+                            <img src="{{ asset('dashboard-assets/assets/img/icons/control.png') }}"
+                                alt=""style='height:70px; width:60px;padding-top: 10px;' />
+                            4M Kontrol Transisi, License dan Absensi
                         </button>
                         <!-- </a> -->
                     </div>
