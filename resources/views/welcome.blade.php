@@ -81,9 +81,9 @@
                         <!-- <a href=""> -->
 
                         <button class="btn-card" style="background-color: #EEEDED; color: #071952;">
-                            <img src="{{ asset('dashboard-assets/assets/img/icons/docs.png') }}" alt=""
+                            <img src="{{ asset('dashboard-assets/assets/img/icons/whs-icon.png') }}" alt=""
                                 style="width: 90px; height:80px" />
-                            SoC Report
+                            Schedule Incoming Warehouse
                         </button>
                         <!-- </a> -->
                     </div>
