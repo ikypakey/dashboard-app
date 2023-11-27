@@ -77,15 +77,13 @@
                         </button>
                         <!-- </a> -->
                     </div>
-                    <div class="col-lg-3">
-                        <!-- <a href=""> -->
-
-                        <button class="btn-card" style="background-color: #EEEDED; color: #071952;">
-                            <img src="{{ asset('dashboard-assets/assets/img/icons/whs-icon.png') }}" alt=""
-                                style="width: 90px; height:80px" />
-                            Schedule Incoming Warehouse
-                        </button>
-                        <!-- </a> -->
+                   <div class="col-lg-3">
+                        <a href="" target="_blank" style="text-decoration: none">
+                            <button class="btn-card">
+                                <img src="{{ asset('dashboard-assets/assets/img/icons/whs-icon.png') }}" alt="" />
+                                Schedule Incoming Warehouse
+                            </button>
+                        </a>
                     </div>
                     <div class="col-lg-3">
                         <!-- <a href=""> -->
