@@ -78,7 +78,7 @@
                         <!-- </a> -->
                     </div>
                    <div class="col-lg-3">
-                        <a href="" target="_blank" style="text-decoration: none">
+                        <a href="/schedule-income" target="_blank" style="text-decoration: none">
                             <button class="btn-card">
                                 <img src="{{ asset('dashboard-assets/assets/img/icons/whs-icon.png') }}" alt="" />
                                 Schedule Incoming Warehouse
