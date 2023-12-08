@@ -81,7 +81,7 @@
                 <div class="col-lg-3">
                     <a href="" target="_blank" style="text-decoration: none">
                         <button class="btn-card" style="background-color: rgba(183, 238, 64, 0.39);">
-                            <img src="{{ asset('dashboard-assets/assets/img/icons/control.png') }}" alt="" style="height: 60px; margin-bottom:5px;" />
+                            <img src="{{ asset('dashboard-assets/assets/img/icons/control.png') }}" alt="" style="height: 78px; margin-bottom:2px;" />
                             4M Kontrol Transisi, License, dan Absensi
                         </button>
                     </a>
