@@ -13,7 +13,6 @@
                         background-size: 25rem;
                         margin-bottom: 40px;
                     "></div>
-                    
                 <!--/.bg-holder-->
 
                 <!-- <div class="container">
@@ -25,5 +24,5 @@
                     </div>
                 </div>
             </section> -->
-        
-            <!--/.bg-holder-->
+
+                <!--/.bg-holder-->
