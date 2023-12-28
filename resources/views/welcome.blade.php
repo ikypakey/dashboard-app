@@ -79,7 +79,7 @@
                     </a>
                 </div>
                 <div class="col-lg-3">
-                    <a href="" target="_blank" style="text-decoration: none">
+                    <a href="/4m-trans" target="_blank" style="text-decoration: none">
                         <button class="btn-card" style="background-color: rgba(183, 238, 64, 0.39);">
                             <img src="{{ asset('dashboard-assets/assets/img/icons/control.png') }}" alt="" style="height: 78px; margin-bottom:2px;" />
                             4M Kontrol Transisi, License, dan Absensi
