@@ -7,7 +7,8 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
     <title>Dashboard | IC Warehouse</title>
     <link href="{{ asset('dashboard-layout/assets/') }}" rel="stylesheet" />
-    <script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"
+        integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" />
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.bundle.min.js"></script>
 
@@ -15,7 +16,8 @@
     <!--    Stylesheets-->
     <!-- ===============================================-->
     <link href="{{ asset('dashboard-assets/assets/css/themenew.css') }}" rel="stylesheet" />
-    <link rel="icon" type="image/png" sizes="16x16" href="{{ asset('dashboard-assets/assets/img/favicons/ic-logo-dash.png') }}" />
+    <link rel="icon" type="image/png" sizes="16x16"
+        href="{{ asset('dashboard-assets/assets/img/favicons/ic-logo-dash.png') }}" />
 </head>
 
 <body>
@@ -68,7 +70,9 @@
         <script src="{{ asset('dashboard-assets/assets/js/theme.js') }}"></script>
 
 
-        <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400&amp;display=swap" rel="stylesheet">
+        <link
+            href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400&amp;display=swap"
+            rel="stylesheet">
 
 
 
@@ -84,7 +88,7 @@
                 , success: function(response) {
                     var backgroundImageUrl = response.background_image;
                     $('.right-content').css({
-                        'background-image': 'url("/' + backgroundImageUrl + '")'
+                        'background-image': 'url("' + backgroundImageUrl + '")'
                         , 'background-repeat': 'no-repeat'
                         , 'background-position': 'center right'
                         , 'background-size': '145%'
